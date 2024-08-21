@@ -1,10 +1,13 @@
 import "./App.css";
-import ProfileCard from "./components/ProfileCard";
+import Contacts from "./components/Contacts/Contacts";
+import ProfileCard from "./components/ProfileCard/ProfileCard";
 
 function App() {
   return (
     <>
       <ProfileCard />
+
+      <Contacts />
     </>
   );
 }

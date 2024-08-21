@@ -1,0 +1,21 @@
+.contacts.div {
+    background-color: maroon;
+    color: aliceblue;
+    bottom: 0;
+    width: auto;
+    margin-bottom: 0;
+    padding-bottom: 3rem;
+    padding-top: 2rem;
+    padding-left: 10%;
+    margin-top: 10rem;
+}
+
+.contacts.heading {
+    padding-left: 2rem;
+}
+
+.contacts.p {
+    padding-left: 3rem;
+    line-height: 1;
+    color: rgb(195, 203, 209);
+}

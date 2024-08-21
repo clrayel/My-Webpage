@@ -1,5 +1,5 @@
 import "./ProfileCard.css";
-import ProfileImage from "../assets/profile_image.jpg";
+import ProfileImage from "../../assets/profile_image.jpg";
 
 function ProfileCard() {
   return (
