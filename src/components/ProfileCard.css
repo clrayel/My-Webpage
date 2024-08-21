@@ -1,0 +1,21 @@
+.parent {
+    text-align: center;
+    margin: auto;
+}
+
+.child {
+    margin: 1rem;
+}
+
+.profile.image {
+    width: 20rem;
+}
+
+.profile.name {
+    padding-top: 2rem;
+}
+
+.profile.details {
+    width: 50rem;
+    margin: auto;
+}
