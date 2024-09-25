@@ -2,7 +2,7 @@ import "./Contacts.css";
 
 function Contacts() {
   return (
-    <div className="contacts div">
+    <div className="contacts div" id="contacts">
       <h2 className="contacts heading">Contacts</h2>
 
       <p className="contacts p">📧 email: clrayel@gmail.com</p>

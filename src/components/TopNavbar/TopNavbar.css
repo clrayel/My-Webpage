@@ -1,0 +1,18 @@
+.topnavbar{
+    background-color: maroon;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.topnavbar a{
+    float: left;
+    color: aliceblue;
+    text-align: center;
+    padding: 1em;
+}
+.topnavbar a:not(.fullname):hover{
+    background-color: aliceblue;
+    color: maroon;
+}
