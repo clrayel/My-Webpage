@@ -25,3 +25,8 @@ a {
 a:hover {
   color: #3a40b2;
 }
+
+.viewscreen{
+  height: 100vh;
+  padding: auto;
+}

@@ -1,0 +1,21 @@
+.experience.div {
+    text-align: center;
+    margin: auto;
+    padding: 3em;
+    background-color: rgb(29, 26, 23);
+    color: aliceblue;
+}
+
+.experience.title{
+    padding-bottom: 1em;
+}
+
+.experience.card{
+    margin: auto;
+    width: 40em;
+    text-align: left;
+}
+
+.experience.card-date{
+    padding-bottom: 1em;
+}

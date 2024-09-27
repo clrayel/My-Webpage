@@ -12,7 +12,7 @@
     text-align: center;
     padding: 1em;
 }
-.topnavbar a:not(.fullname):hover{
+.topnavbar a:hover{
     background-color: aliceblue;
     color: maroon;
 }

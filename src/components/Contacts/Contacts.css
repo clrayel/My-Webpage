@@ -19,3 +19,11 @@
     line-height: 1;
     color: rgb(195, 203, 209);
 }
+
+.contacts.p a{
+    color: rgb(195, 203, 209);
+}
+
+.contacts.p a:hover{
+    text-decoration: underline;
+}
