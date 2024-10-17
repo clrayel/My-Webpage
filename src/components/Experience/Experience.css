@@ -15,6 +15,10 @@
     width: 40em;
     text-align: left;
 }
+.experience.card:hover{
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
+}
 
 .experience.card-date{
     padding-bottom: 1em;

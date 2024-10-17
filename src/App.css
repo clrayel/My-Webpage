@@ -29,4 +29,5 @@ a:hover {
 .viewscreen{
   height: 100vh;
   padding: auto;
+  position: relative;
 }
