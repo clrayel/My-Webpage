@@ -1,0 +1,21 @@
+.projects{
+    text-align: center;
+    margin: auto;
+    margin-top: 5em;
+    padding: 3em;
+    width: 60rem;
+}
+.projects-grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-auto-rows: minmax(3em, auto);
+}
+
+.project.card{
+    text-align: left;
+    padding: 1em;
+}
+.project.card:hover{
+    color: aliceblue;
+    background-color: maroon;
+}

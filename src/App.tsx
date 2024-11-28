@@ -4,6 +4,7 @@ import ProfileCard from "./components/ProfileCard/ProfileCard";
 import TopNavbar from "./components/TopNavbar/TopNavbar";
 import Experience from "./components/Experience/Experience";
 import Skills from "./components/Skills/Skills";
+import Projects from "./components/Projects/Projects";
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
       <Skills />
 
       <Experience />
+
+      <Projects />
 
       <Contacts />
     </>
