@@ -35,7 +35,7 @@ export default function Projects() {
       <h1>Projects, Presentations, and Publications</h1>
       <hr />
       <div className="projects-grid">
-        {projectList.map((project, index) => (
+        {projectList.map((project) => (
           <ProjectCard
             title={project.title}
             purpose={project.purpose}
