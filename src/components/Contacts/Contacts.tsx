@@ -6,8 +6,6 @@ function Contacts() {
       <h1 className="contacts heading">Contacts</h1>
 
       <p className="contacts p">📧 email: clrayel@gmail.com</p>
-      <p className="contacts p">📞 +639983412995</p>
-
       <p className="contacts p">
         🔗 LinkedIn:{" "}
         <a

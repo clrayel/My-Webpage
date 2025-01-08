@@ -13,6 +13,11 @@
     box-shadow: 1em 2em rgba(61, 60, 60, 0.482);
 }
 
+.profile.child:hover{
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
+}
+
 .profile.child {
     display: inline-block;
     margin: 1rem;
